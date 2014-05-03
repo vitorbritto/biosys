@@ -12,3 +12,7 @@ Returns information about your system.
 var biosys = require('biosys');
 biosys();
 ```
+
+## License
+
+[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto
