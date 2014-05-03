@@ -1,0 +1,20 @@
+var biosys = function() {
+
+    'use strict';
+
+    console.log('--------------------------------------------\n');
+    console.log(' SYSTEM INFORMATION:\n');
+    console.log(' System    : %s ', process.env._system_name);
+    console.log(' Platform  : %s ', process.platform);
+    console.log(' Language  : %s ', process.env.LANG);
+    console.log(' Username  : %s ', process.env.USER);
+    console.log(' Shell     : %s ', process.env.SHELL);
+    console.log(' Home PATH : %s ', process.env.HOME);
+    console.log(' Editor    : %s ', process.env.EDITOR);
+    console.log(' Node      : %s \n', process.version);
+    console.log('--------------------------------------------');
+
+
+};
+
+module.exports = biosys;

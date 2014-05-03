@@ -1,0 +1,25 @@
+{
+  "name": "biosys",
+  "version": "0.1.0",
+  "description": "Returns information about your system.",
+  "main": "index.js",
+  "bin": {
+    "biosys": "index.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vitorbritto@github.com/vitorbritto/biosys.git"
+  },
+  "keywords": [
+    "information", "system", "biosys"
+  ],
+  "author": "Vitor Britto <code@vitorbritto.com.br> (http://vitorbritto.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorbritto/biosys/issues"
+  },
+  "homepage": "https://github.com/vitorbritto/biosys"
+}
