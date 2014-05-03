@@ -9,8 +9,7 @@ Returns information about your system.
 ## Usage
 
 ```javascript
-var biosys = require('biosys');
-biosys();
+require('biosys');
 ```
 
 ## License
