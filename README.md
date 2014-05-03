@@ -4,7 +4,7 @@ Returns information about your system.
 
 ## Install
 
-    npm install biosys --save-dev
+    npm install biosys
 
 ## Usage
 
