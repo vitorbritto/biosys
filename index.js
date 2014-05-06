@@ -7,4 +7,4 @@
  * Author: Vitor Britto <code@vitorbritto.com.br>
  */
 
-require('./lib/biosys');
+module.exports = require('./lib/biosys');
